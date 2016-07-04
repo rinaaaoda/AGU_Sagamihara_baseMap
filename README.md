@@ -1,1 +1,2 @@
 # AGU_Sagamihara_baseMap
+![青山学院大学相模原キャンパスの各建物のフロアマップの写真を撮りGoogleEarthに当てはめました]
