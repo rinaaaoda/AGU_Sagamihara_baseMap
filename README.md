@@ -2,7 +2,7 @@
 青山学院大学相模原キャンパスの各建物のフロアマップの写真を撮りGoogleEarthに当てはめました
 
 - [x] [A棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingA)
-- [B棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingB)
+- [x] [B棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingB)
 - [C棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingC)
 - [x] [D棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingD)
 - [x] [E棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingE)
@@ -10,7 +10,7 @@
 - [G棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingG)
 - [H棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingH)
 - [I棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingI)
-- [JKL棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingJKL)
+- [x] [JKL棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingJKL)
 - [M棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingM)
 - [x] [N棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingN)
 - [x] [O棟](https://github.com/rinaaaoda/AGU_Sagamihara_baseMap/tree/master/BuidlingO)
